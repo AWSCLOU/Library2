@@ -1,0 +1,23 @@
+here,I implement a simple library management system using a switch statement in Java and operated the following operations Add a new book, Check Out a book, display specific book status, search specific book, and display book details using different class 
+ menu 
+Exit Application
+Add a New Book
+Upgrade Quantity of a Book
+Search a Book
+Show All Books
+Register Student
+Show All Registered Students
+Check Out Book
+Check-In Book
+Implementation:
+ creating 5 files including our MAIN CLASS
+
+Library
+Students 
+Student 
+books 
+book
+Class library is the parent class .book class and books class internally realted eachother as student and students class.
+finally, created menu using do-while loop and nested switch case(search choice 0-8)
+while (choice != 0);
+
